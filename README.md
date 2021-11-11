@@ -2,6 +2,6 @@
 Some (I hope) useful scripts.
 
 ## ig_checker
-Simple follower+followings retriever for your account. \
+Simple followers+followings retriever for your account. \
 Infos are stored in 'ig.json' file. \
-New follower and unfollower are notified via a Telegram Bot.
+New followers and unfollowers are notified via a Telegram Bot.
